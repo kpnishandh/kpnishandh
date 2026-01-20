@@ -1,4 +1,4 @@
-https://<Nishandh kp.github.io/<repo>/<path/to/photo.jpg>
+https://<kpnishandh.github.io/<repo>/<path/to/photo.jpg>
 # Nishandh KP
 # Cyber Security Professional
 Hello! I'm nishandh kp, a passionate and dedicated cyber security professional with a focus on developing eco-friendly cybersecurity tools. My mission is to make the digital world a safer place while maintaining a sustainable approach.
