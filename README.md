@@ -5,7 +5,7 @@ Hello! I'm nishandh kp, a passionate and dedicated cyber security professional w
 # About Me
 I specialize in various aspects of cybersecurity, including:
 
-   • Penetration 
+   • Penetration testing 
 
    • Network Security
 
